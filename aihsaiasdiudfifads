@@ -7,7 +7,7 @@ local MainSection = Main:NewSection("syn/burgers advertising")
 
 
 MainSection:NewButton("Advertise", "Advertise random shit", function()
-    while true do wait(7)   local A_1 = "join .gg/pYGayfKJSJ || lol2 scams leave his server" local A_2 = "All"  local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest Event:FireServer(A_1, A_2) end
+    while true do wait(7)   local A_1 = "join .gg/pYGayfKJSJ || malware + syn on top" local A_2 = "All"  local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest Event:FireServer(A_1, A_2) end
     
 end)
 
