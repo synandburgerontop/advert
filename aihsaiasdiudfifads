@@ -31,6 +31,7 @@ end)
 MainSection:NewButton("Un no cpu usage", "un no cpu", function()
     setfpscap(60)
 end)
+
 MainSection:NewButton("Un no cpu usage", "un no cpu", function()
     game:GetService("RunService"):Set3dRenderingEnabled(true)
 end)
